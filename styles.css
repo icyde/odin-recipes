@@ -1,0 +1,21 @@
+.header {
+    font-family: fantasy;
+    color: 
+    #DAF7A6;
+    background-color: #8D50CB;
+    text-align: center;
+}
+
+
+html {
+    background: rgb(80,80,203);
+    background: linear-gradient(180deg, rgba(80,80,203,1) 13%, rgba(39,38,116,1) 50%, rgba(2,0,36,1) 84%);
+}
+
+.list {
+    color:
+    #eaeaea;
+    border-style: dashed;
+    padding: auto;
+    border-color: black;
+}
