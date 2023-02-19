@@ -19,3 +19,16 @@ html {
     padding: auto;
     border-color: black;
 }
+
+.gif {
+    width: auto;
+    height:400px;
+}
+
+.shef {
+    height: fit-content;
+}
+
+a {
+    color: rgb(191, 209, 225);
+}
